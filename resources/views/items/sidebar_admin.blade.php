@@ -1,5 +1,5 @@
 <!-- menu samping LEFT SIDEBAR --><!-- MENU UTAMA -->           
-	<aside class='left-side sidebar-offcanvas'>
+<aside class='left-side sidebar-offcanvas'>
 		<!-- sidebar: style can be found in sidebar.less -->
 			<section class='sidebar'>
 				<!-- Sidebar user panel -->
@@ -97,7 +97,7 @@
 				</li><li>
 					<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
 				</li><li>
-					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
+					<a href="{{ route('jsekosan') }}"><i class='fa fa-angle-double-right'></i>JS Eko Sandy[Eko Sandy Nugroho ]</a>
 				</li><li>
 					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
 				</li><li>
@@ -206,4 +206,3 @@
 	</li><li class='treeview'><a href='#'><i class='fa fa-arrows'></i><span>Tutorial  ASP NET</span><i class='fa fa-angle-left pull-right'></i></a></li></ul>	 </section>
                 <!-- END MENU UTAMA -->
 	</aside>
-	
